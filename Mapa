@@ -1,0 +1,26 @@
+graph TD
+    A[Objetivos de la Contabilidad] --> B(Informar Situación Financiera);
+    A --> C(Facilitar Toma de Decisiones);
+    A --> D(Control de Recursos);
+    A --> E(Análisis Metódico);
+    A --> F(Conservación del Capital);
+
+    B --> B1[Registrar Ventas Diarias];
+    B --> B2[Crear Balance General Mensual];
+    B --> B3[Cumplir con el SAT];
+
+    C --> C1[Invertir en Nueva Maquinaria];
+    C --> C2[Reducir Costos de Producción];
+    C --> C3[Obtener Préstamo Bancario];
+
+    D --> D1[Supervisar Ingresos por Ventas];
+    D --> D2[Controlar Gastos de Publicidad];
+    D --> D3[Gestionar Inventario];
+
+    E --> E1[Tendencia de Aumento en Ventas];
+    E --> E2[Rentabilidad del 15% Anual];
+    E --> E3[Comparar con Empresas Similares];
+
+    F --> F1[Aumentar Ganancias en un 10%];
+    F --> F2[Reducir Deudas a Corto Plazo];
+    F --> F3[Crear Presupuesto Anual];
